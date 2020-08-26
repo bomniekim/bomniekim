@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to Bomnie's Github 👋
+Wannabe awesome ✨frontend developer✨ from South Korea 🇰🇷
 
 ![bomnie's github status](https://github-readme-stats.vercel.app/api?username=bomniekim&show_icons=true)
 <!--
